@@ -1,7 +1,7 @@
 wp-github-webhook
 =================
 
-Automatically update a live Wordpress plugin or theme via SSH or FTP when its GitHub repo is commited to.
+Automatically sync repository data from GitHub as a plugin or theme via SSH or FTP protocols.
 
 It is a port of https://github.com/Coppertino/github-webhook.
 
@@ -19,9 +19,4 @@ Ideas
 
 Using a quick check for the presence of style.css, a repo could be labeled as a theme or plugin and thus be placed in the right directory.
 
-Etc.
-====
-
-I just realized this boils down to installing a plugin or theme directly from GitHub.
-
-If the need for access to the admin panel of the repo could be circumvented this would allow to install Wordpress plugins or themes by only copy-pasting its GitHub URI.
+If the need for access to the admin panel of the repo could be circumvented this would allow to install any repo as a Wordpress plugin or theme only by copy-pasting its GitHub URI.
