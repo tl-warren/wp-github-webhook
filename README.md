@@ -1,7 +1,7 @@
 wp-github-webhook
 =================
 
-Sync repository data from GitHub as a plugin or theme automatically via SSH or FTP protocols.
+Automatically sync repository data from GitHub as a plugin or theme via SSH or FTP protocols.
 
 It is a port of https://github.com/Coppertino/github-webhook.
 
